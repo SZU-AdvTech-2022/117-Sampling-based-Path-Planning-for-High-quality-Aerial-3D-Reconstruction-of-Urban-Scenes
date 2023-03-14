@@ -1,4 +1,4 @@
-@article{REPO-118,
+@article{REPO-117,
     author = "Yan, Feihu and Xia, Enyong and Li, Zhaoxin and Zhou, Zhong",
     journal = "Remote Sensing",
     number = "5",
