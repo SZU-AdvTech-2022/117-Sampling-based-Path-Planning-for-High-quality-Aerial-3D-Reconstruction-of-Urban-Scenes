@@ -1,0 +1,8 @@
+@article{REPO-118,
+    author = "Yan, Feihu and Xia, Enyong and Li, Zhaoxin and Zhou, Zhong",
+    journal = "Remote Sensing",
+    number = "5",
+    title = "{Sampling-based Path Planning for High-quality Aerial 3D Reconstruction of Urban Scenes}",
+    volume = "13",
+    year = "2021"
+}
